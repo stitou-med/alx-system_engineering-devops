@@ -1,1 +1,1 @@
-# Solutions to tasks on Oniguruma library
+# Solutions to tasks on Alx SE Africa
